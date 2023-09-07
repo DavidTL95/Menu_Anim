@@ -29,11 +29,13 @@ Decidí crear este menú, para aprender a utilizar SASS y variables en CSS.
 
 ## Stack
 <div align="center">
+  
   ![SASS](https://github.com/DavidTL95/Menu_Anim/assets/134488502/9c78e646-cfe7-4069-8297-1c5928ca6350)
   
   ![CSS3](https://github.com/DavidTL95/Menu_Anim/assets/134488502/bc1b9cc3-bf9d-4950-91f9-885c3196fdbb)
   
   ![HTML](https://github.com/DavidTL95/Menu_Anim/assets/134488502/8f224032-ba6a-4f2f-8766-5141cfc7b60f)
+  
  </div>
 
 ## Instalación en local
